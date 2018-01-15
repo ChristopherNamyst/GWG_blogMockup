@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+My response....
+1. I have learned some helpful tips on how to properly format a web page with HTML, and some basics as well.
+2. Thus far, most of this material is review for me so I find it refreshing to come back to the basics.
+3. There has not been anything too difficult thus far. I am looking forward to the challenges ahead!
+4. Having a page set up and trying to rebuild the page from scratch has been more helpful than most code-alongs I have been a part of. I feel that every tip, and exercise thus far has been extremely helpful. 
